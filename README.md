@@ -1,7 +1,7 @@
 java program that will perform combination of loading data from WebService (JSON) and File (JSON).
 	- Source Input data from "Input" folder and from website.
 
-had used the ff; List, JSON, ExecutorService, CompletionService
+- List, JSON, ExecutorService, CompletionService
 
 Pre-requisites:
 1. Project File is given - "FileAccessMultiThreading.zip"
