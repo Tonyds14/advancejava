@@ -15,9 +15,11 @@ Goal:
 -	write all Loaded data to Excel File (com.svi.advancedjavatraining.utils.PopulationFileWriter)
 
 Sample Input:
+
 ![Structure_of_Data_from_website](https://github.com/user-attachments/assets/7db731af-4a49-49c7-9cdb-2fd5818ec68f)
 ![Structure_of_Data_from_Input_Folder](https://github.com/user-attachments/assets/1575b79b-b578-4e30-add0-ac4de475d063)
 
 Sample Output:
+
 ![Sample_Console_output](https://github.com/user-attachments/assets/234ea7ec-13e0-486c-a5d5-5029d2ec60d1)
 ![Sample_Data_of_Output_Excel](https://github.com/user-attachments/assets/7ce66989-535b-4753-8698-c6d0942d8be8)
